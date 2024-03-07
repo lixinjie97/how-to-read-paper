@@ -4,7 +4,7 @@
 分享经典的计算机领域论文和读论文的方法。
 
 ### 论文结构
-![structure_of_thesis](assets/structure_of_thesis.png)
+![structure_of_thesis](assets/structure_of_thesis.png){:height="80%" width="80%"}
 
 ### 如何读论文
 #### 第一遍
