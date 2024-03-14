@@ -3,6 +3,10 @@
 ### 前言
 分享经典的计算机领域论文和读论文的方法。
 
+### TODO
+- [ ] 读深度学习相关论文
+- [ ] 复现论文代码
+
 ### 论文结构
 ![structure_of_thesis](assets/structure_of_thesis.png)
 
