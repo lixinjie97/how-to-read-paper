@@ -21,3 +21,6 @@
 
 #### 第三遍
 精读全文，清楚每句话讲的是什么，了解整篇文章的行文结构、算法流程。
+
+### 论文复现
+* [01.使用AlexNet做猫狗分类任务；](https://github.com/lixinjie97/how-to-read-paper/blob/main/workspace/01.AlexNet/01.AlexNet.ipynb)
